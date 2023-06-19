@@ -1,5 +1,5 @@
 const spawnChildProcess = async (args) => {
-    // Write your code here
+  console.log('I don\' know doing this is task')
 };
 
 // Put your arguments in function call to test this functionality
